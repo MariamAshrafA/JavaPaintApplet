@@ -11,8 +11,11 @@ This project allows the user to:
   - Use an eraser
   - Undo actions
   - Clear All
-  
+
 # To run
   - Download PaintApp.java and PaintApp.html
   - Compile using javac PaintApp.java
   - Run using appletviewer PaintApp.html
+
+# Contact
+mariam.ashraf.abdelsalam@gmail.com
