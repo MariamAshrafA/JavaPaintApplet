@@ -18,4 +18,5 @@ This project allows the user to:
   - Run using appletviewer PaintApp.html
 
 # Contact
-mariam.ashraf.abdelsalam@gmail.com
+Video: https://bit.ly/36kPD3e
+Email: mariam.ashraf.abdelsalam@gmail.com
